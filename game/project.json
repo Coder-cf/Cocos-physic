@@ -1,0 +1,8 @@
+{
+  "engine": "cocos-creator-js",
+  "packages": "packages",
+  "name": "game",
+  "id": "ae7abca8-7dc5-40e8-beb8-b2c7c57a2d9d",
+  "version": "2.3.4",
+  "isNew": false
+}
